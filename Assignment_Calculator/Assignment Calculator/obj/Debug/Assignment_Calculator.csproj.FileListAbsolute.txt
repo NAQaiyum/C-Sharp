@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\Assignment_Calculator\Assignment_Calculator\bin\Debug\Assignment_Calculator.exe.config
+C:\Users\ASUS\Desktop\Assignment_Calculator\Assignment_Calculator\bin\Debug\Assignment_Calculator.exe
+C:\Users\ASUS\Desktop\Assignment_Calculator\Assignment_Calculator\bin\Debug\Assignment_Calculator.pdb
+C:\Users\ASUS\Desktop\Assignment_Calculator\Assignment_Calculator\obj\Debug\Assignment_Calculator.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Assignment_Calculator\Assignment_Calculator\obj\Debug\Assignment_Calculator.Form1.resources
+C:\Users\ASUS\Desktop\Assignment_Calculator\Assignment_Calculator\obj\Debug\Assignment_Calculator.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Assignment_Calculator\Assignment_Calculator\obj\Debug\Assignment_Calculator.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Assignment_Calculator\Assignment_Calculator\obj\Debug\Assignment_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Assignment_Calculator\Assignment_Calculator\obj\Debug\Assignment_Calculator.exe
+C:\Users\ASUS\Desktop\Assignment_Calculator\Assignment_Calculator\obj\Debug\Assignment_Calculator.pdb
